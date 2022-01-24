@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/life-perfect-landing-page/static/css/main.b69031e7.css",
+    "main.js": "/life-perfect-landing-page/static/js/main.13727f4f.js",
+    "static/media/coca_cola.png": "/life-perfect-landing-page/static/media/coca_cola.9c604d555670d1e61dbb.png",
+    "static/media/headline_businessman.png": "/life-perfect-landing-page/static/media/headline_businessman.4ee5ebaaa57a697080f8.png",
+    "static/media/amazon.png": "/life-perfect-landing-page/static/media/amazon.b0404d90686f1415b2d5.png",
+    "static/media/nike.png": "/life-perfect-landing-page/static/media/nike.2377e5d21bfffac6a5cc.png",
+    "static/media/disney.png": "/life-perfect-landing-page/static/media/disney.5b9919f119ed9ab7456c.png",
+    "static/media/image9.jpg": "/life-perfect-landing-page/static/media/image9.4befa4a91150604b89a5.jpg",
+    "static/media/image8.jpg": "/life-perfect-landing-page/static/media/image8.70b7dfe9616eb958ac1c.jpg",
+    "static/media/image2.jpg": "/life-perfect-landing-page/static/media/image2.885ed673e33e67e7c713.jpg",
+    "static/media/image10.jpg": "/life-perfect-landing-page/static/media/image10.5c8b588ec7ef6291efa8.jpg",
+    "static/media/image5.jpg": "/life-perfect-landing-page/static/media/image5.d7265804d46587f89846.jpg",
+    "static/media/image7.jpg": "/life-perfect-landing-page/static/media/image7.072929c6fab35a85d734.jpg",
+    "static/media/airbnb.png": "/life-perfect-landing-page/static/media/airbnb.29bff50982db0517d9a0.png",
+    "static/media/asus.png": "/life-perfect-landing-page/static/media/asus.6f336fd1df56b73bd700.png",
+    "static/media/adidas.png": "/life-perfect-landing-page/static/media/adidas.9ba92d117c7024b721d0.png",
+    "static/media/image6.jpg": "/life-perfect-landing-page/static/media/image6.f07df5270fc48d8cfa62.jpg",
+    "static/media/image3.jpg": "/life-perfect-landing-page/static/media/image3.309ce9cc438a7b07e986.jpg",
+    "static/media/ring_bg.png": "/life-perfect-landing-page/static/media/ring_bg.8973ff9dfaa96e6ef22f.png",
+    "static/media/image4.jpg": "/life-perfect-landing-page/static/media/image4.945d568f4230b803eca4.jpg",
+    "static/media/main_logo.png": "/life-perfect-landing-page/static/media/main_logo.5d72506223f0c7cae8ea.png",
+    "static/media/puma.png": "/life-perfect-landing-page/static/media/puma.b8adeeb1794ef4bb9873.png",
+    "static/media/netflix.png": "/life-perfect-landing-page/static/media/netflix.a3092e10ce2527646427.png",
+    "static/media/microsoft.png": "/life-perfect-landing-page/static/media/microsoft.c8535d0475d866894dfd.png",
+    "index.html": "/life-perfect-landing-page/index.html",
+    "main.b69031e7.css.map": "/life-perfect-landing-page/static/css/main.b69031e7.css.map",
+    "main.13727f4f.js.map": "/life-perfect-landing-page/static/js/main.13727f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69031e7.css",
+    "static/js/main.13727f4f.js"
+  ]
+}
