@@ -26,7 +26,7 @@ class App extends React.Component {
   render() {
     return (
       <ThemeContext.Provider value={this.state.theme}>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path='/' element={<Home/>} exact/>
             <Route path='/signin' element={<Signin/>} exact/>
