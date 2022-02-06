@@ -47,7 +47,7 @@ export const ContentWrapper = styled.div`
     padding: 70px 24px;
     align-items: center;
     flex-direction: column;
-    min-height: 550px;
+    min-height: 630px;
 `;
 
 export const ServiceTitle = styled.h1`

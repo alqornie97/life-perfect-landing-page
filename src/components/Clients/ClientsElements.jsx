@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const ClientsContainer = styled.div`
     color: #fff;
+    
     background: ${({theme}) => theme.primary};
     position: relative;
     z-index: 1;
@@ -47,7 +48,7 @@ export const ContentWrapper = styled.div`
     padding: 70px 24px;
     align-items: center;
     flex-direction: column;
-    min-height: 550px;
+    min-height: 630px;
 `;
 
 export const ServiceTitle = styled.h1`
@@ -98,7 +99,7 @@ export const CardWrapper = styled.p`
 export const ClientLogo = styled.img`
     max-height: 70px;
     max-width: 200px;
-    filter: brightness(0) invert(1);
+    /* filter: brightness(0) invert(1); */
     transition: all 0.2s ease-in-out;
     
     &:hover {

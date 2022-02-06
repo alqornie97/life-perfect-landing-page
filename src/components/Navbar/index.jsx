@@ -35,7 +35,6 @@ const Navbar = (props) => {
     }, []);
 
     const toggleHome = () => {
-        console.log('masuk toggle');
         animateScroll.scrollToTop();
     }
 
