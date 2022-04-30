@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/life-perfect-landing-page/static/css/main.b69031e7.css",
+    "main.css": "/life-perfect-landing-page/static/css/main.d3e2f259.css",
     "main.js": "/life-perfect-landing-page/static/js/main.1ab2625b.js",
     "static/media/headline_businessman.png": "/life-perfect-landing-page/static/media/headline_businessman.4ee5ebaaa57a697080f8.png",
     "static/media/disney.png": "/life-perfect-landing-page/static/media/disney.84b93a2529c4a9eb6a25.png",
@@ -25,11 +25,11 @@
     "static/media/main_logo.png": "/life-perfect-landing-page/static/media/main_logo.5d72506223f0c7cae8ea.png",
     "static/media/airbnb.png": "/life-perfect-landing-page/static/media/airbnb.2db7392e0966f5fdff3a.png",
     "index.html": "/life-perfect-landing-page/index.html",
-    "main.b69031e7.css.map": "/life-perfect-landing-page/static/css/main.b69031e7.css.map",
+    "main.d3e2f259.css.map": "/life-perfect-landing-page/static/css/main.d3e2f259.css.map",
     "main.1ab2625b.js.map": "/life-perfect-landing-page/static/js/main.1ab2625b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b69031e7.css",
+    "static/css/main.d3e2f259.css",
     "static/js/main.1ab2625b.js"
   ]
 }
